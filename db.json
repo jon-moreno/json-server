@@ -1,40 +1,39 @@
 {
-    
-
-    "XxnucCommAuditLogV": [
-        {"offset": 0},
-      {
-        "logId": 18,
-        "transactionId": "397877",
-        "projectName": "NextGen CLOUD",
-        "transactionName": "I138 INSERT CLOUD",
-        "sourceSystem": "NiceLabel",
-        "targetSystem": "RailInc",
-        "transactionStatus": "Inprocess",
-        "createdTime": "2019-06-18T21:18:38.678519+00:00",
-        "updatedTime": "2019-06-18T21:18:38.678519+00:00"
-      },
-      {
-        "logId": 19,
-        "transactionId": "53949",
-        "projectName": "NextGen CLOUD",
-        "transactionName": "I138 INSERT CLOUD",
-        "sourceSystem": "Shipware(WS)",
-        "targetSystem": "SAP",
-        "transactionStatus": "Success",
-        "createdTime": "2019-06-18T21:18:42.618016+00:00",
-        "updatedTime": "2019-06-18T21:18:42.618016+00:00"
-      },
-      {
-        "logId": 20,
-        "transactionId": "428094",
-        "projectName": "NextGen CLOUD",
-        "transactionName": "I138 INSERT CLOUD",
-        "sourceSystem": "Suppliers",
-        "targetSystem": "INFOR (WS)",
-        "transactionStatus": "Success",
-        "createdTime": "2019-06-18T21:18:44.265214+00:00",
-        "updatedTime": "2019-06-18T21:18:44.265214+00:00"
-      }
-    ]
-  }
+    "XxnucCommAuditLogVCollection": {
+        "XxnucCommAuditLogV": [
+            {
+                "logId": 18,
+                "transactionId": "397877",
+                "projectName": "NextGen CLOUD",
+                "transactionName": "I138 INSERT CLOUD",
+                "sourceSystem": "NiceLabel",
+                "targetSystem": "RailInc",
+                "transactionStatus": "Inprocess",
+                "createdTime": "2019-06-18T21:18:38.678519+00:00",
+                "updatedTime": "2019-06-18T21:18:38.678519+00:00"
+            },
+            {
+                "logId": 19,
+                "transactionId": "53949",
+                "projectName": "NextGen CLOUD",
+                "transactionName": "I138 INSERT CLOUD",
+                "sourceSystem": "Shipware(WS)",
+                "targetSystem": "SAP",
+                "transactionStatus": "Success",
+                "createdTime": "2019-06-18T21:18:42.618016+00:00",
+                "updatedTime": "2019-06-18T21:18:42.618016+00:00"
+            },
+            {
+                "logId": 20,
+                "transactionId": "428094",
+                "projectName": "NextGen CLOUD",
+                "transactionName": "I138 INSERT CLOUD",
+                "sourceSystem": "Suppliers",
+                "targetSystem": "INFOR (WS)",
+                "transactionStatus": "Success",
+                "createdTime": "2019-06-18T21:18:44.265214+00:00",
+                "updatedTime": "2019-06-18T21:18:44.265214+00:00"
+            }
+        ]
+    }
+}
