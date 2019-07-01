@@ -1,14 +1,8 @@
       {
         "logId": 18,
         "transactionId": "397877",
-        "projectName": "NextGen CLOUD",
-        "transactionName": "I138 INSERT CLOUD",
-        "sourceSystem": "NiceLabel"
       },
       {
         "logId": 19,
         "transactionId": "53949",
-        "projectName": "NextGen CLOUD",
-        "transactionName": "I138 INSERT CLOUD",
-        "sourceSystem": "Shipware(WS)"
       }
