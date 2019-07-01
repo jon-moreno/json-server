@@ -1,5 +1,4 @@
-{
-    "XxnucCommAuditLogV": [
+[
         {
             "logId": 20,
             "transactionId": "428094",
@@ -551,4 +550,3 @@
             "updatedTime": "2019-06-18T21:27:16.225654+00:00"
         }
     ]
-}
