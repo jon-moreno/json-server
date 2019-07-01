@@ -1,57 +1,21 @@
-[
-        {
-            "logId": 189,
-            "transactionId": "336497",
-            "projectName": "NextGen CLOUD",
-            "transactionName": "INSERT",
-            "sourceSystem": "QMOS",
-            "targetSystem": "Suppliers",
-            "transactionStatus": "Error",
-            "createdTime": "2019-06-18T21:27:16.211178+00:00",
-            "updatedTime": "2019-06-18T21:27:16.211178+00:00"
-        },
-        {
-            "logId": 190,
-            "transactionId": "249641",
-            "projectName": "NextGen CLOUD",
-            "transactionName": "INSERT",
-            "sourceSystem": "Arcelor - Mittal",
-            "targetSystem": "Inclusion",
-            "transactionStatus": "Inprocess",
-            "createdTime": "2019-06-18T21:27:16.214585+00:00",
-            "updatedTime": "2019-06-18T21:27:16.214585+00:00"
-        },
-        {
-            "logId": 191,
-            "transactionId": "354388",
-            "projectName": "NextGen CLOUD",
-            "transactionName": "INSERT",
-            "sourceSystem": "MES Systems",
-            "targetSystem": "MES Systems",
-            "transactionStatus": "Success",
-            "createdTime": "2019-06-18T21:27:16.218754+00:00",
-            "updatedTime": "2019-06-18T21:27:16.218754+00:00"
-        },
-        {
-            "logId": 192,
-            "transactionId": "331211",
-            "projectName": "NextGen CLOUD",
-            "transactionName": "INSERT",
-            "sourceSystem": "B2B",
-            "targetSystem": "IFS",
-            "transactionStatus": "Success",
-            "createdTime": "2019-06-18T21:27:16.222478+00:00",
-            "updatedTime": "2019-06-18T21:27:16.222478+00:00"
-        },
-        {
-            "logId": 193,
-            "transactionId": "428527",
-            "projectName": "NextGen CLOUD",
-            "transactionName": "INSERT",
-            "sourceSystem": "RailInc",
-            "targetSystem": "NiceLabel",
-            "transactionStatus": "Warning",
-            "createdTime": "2019-06-18T21:27:16.225654+00:00",
-            "updatedTime": "2019-06-18T21:27:16.225654+00:00"
-        }
-    ]
+      {
+        "logId": 18,
+        "transactionId": "397877",
+        "projectName": "NextGen CLOUD",
+        "transactionName": "I138 INSERT CLOUD",
+        "sourceSystem": "NiceLabel"
+      },
+      {
+        "logId": 19,
+        "transactionId": "53949",
+        "projectName": "NextGen CLOUD",
+        "transactionName": "I138 INSERT CLOUD",
+        "sourceSystem": "Shipware(WS)"
+      },
+      {
+        "logId": 20,
+        "transactionId": "428094",
+        "projectName": "NextGen CLOUD",
+        "transactionName": "I138 INSERT CLOUD",
+        "sourceSystem": "Suppliers"
+      }
