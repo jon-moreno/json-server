@@ -11,11 +11,4 @@
         "projectName": "NextGen CLOUD",
         "transactionName": "I138 INSERT CLOUD",
         "sourceSystem": "Shipware(WS)"
-      },
-      {
-        "logId": 20,
-        "transactionId": "428094",
-        "projectName": "NextGen CLOUD",
-        "transactionName": "I138 INSERT CLOUD",
-        "sourceSystem": "Suppliers"
       }
