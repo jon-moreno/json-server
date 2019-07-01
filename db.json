@@ -1,27 +1,5 @@
 [
         {
-            "logId": 44,
-            "transactionId": "64232",
-            "projectName": "NextGen CLOUD",
-            "transactionName": "INSERT",
-            "sourceSystem": "Shipware(WS)",
-            "targetSystem": "Transentric",
-            "transactionStatus": "Inprocess",
-            "createdTime": "2019-06-18T21:23:14.656495+00:00",
-            "updatedTime": "2019-06-18T21:23:14.656495+00:00"
-        },
-        {
-            "logId": 45,
-            "transactionId": "169976",
-            "projectName": "NextGen CLOUD",
-            "transactionName": "INSERT",
-            "sourceSystem": "Chemistry Upload",
-            "targetSystem": "Suppliers",
-            "transactionStatus": "Success",
-            "createdTime": "2019-06-18T21:23:16.413402+00:00",
-            "updatedTime": "2019-06-18T21:23:16.413402+00:00"
-        },
-        {
             "logId": 46,
             "transactionId": "901567",
             "projectName": "NextGen CLOUD",
