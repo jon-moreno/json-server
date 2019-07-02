@@ -34,4 +34,18 @@
             "updatedTime": "2019-06-18T21:18:48.055958+00:00"
         }
     ]
+        "XxnucCommAuditStepLogV": [
+        {
+            "stepLogId": 20,
+            "logId": 20,
+            "componentId": "I138 CLOUD",
+            "messageSourceSystem": "EBS",
+            "processName": "xxnuc_inv_nstx_qmos_trx_pkg",
+            "logType": "Error",
+            "messageCode": "BMG-xxx",
+            "messageDescription": "ReceiveEDN timed out, no response from event delivery network for RequestID !",
+            "createdTime": "2019-06-18T21:18:44.000+00:00"
+        }
+    ]
+    
 }
